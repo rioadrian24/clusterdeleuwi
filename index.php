@@ -39,6 +39,9 @@
         <div class="component-3 py-5">
             <img class="lazyload" data-src="assets/img/component/miliki.png">
         </div>
+        <div class="component-4 py-5">
+            <img class="lazyload" data-src="assets/img/component/500.png">
+        </div>
     </div>
 
     <div class="content-body">
