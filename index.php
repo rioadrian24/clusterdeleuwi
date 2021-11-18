@@ -27,8 +27,11 @@
     </div>
 
     <div class="content-top">
-        <div class="component-1">
+        <div class="component-1 d-none d-md-block d-lg-block">
             <img class="lazyload" data-src="assets/img/component/silue.png">
+        </div>
+        <div class="component-1 d-block d-md-none d-lg-none">
+            <img class="lazyload" data-src="assets/img/component/silue2.png">
         </div>
         <div class="component-2">
             <img class="lazyload" data-src="assets/img/component/galaxy.png">
@@ -48,13 +51,13 @@
         <div class="section-1 py-6">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 mb-5 mb-md-0 mb-lg-0">
                         <div class="home-1">
                             <img class="lazyload" data-src="assets/img/home/home1.jpeg">
                         </div>
                     </div>
                     <div class="col-lg-6 text-center">
-                        <img class="lazyload mb-4" data-src="assets/img/component/up.png" width="90%">
+                        <img class="lazyload mb-5" data-src="assets/img/component/up.png" width="90%">
                         <div class="d-flex justify-content-center">
                             <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Saya Tertarik</a>
                         </div>
@@ -93,7 +96,7 @@
                             <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Ambil Promo</a>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 mt-5 mt-md-0 mt-lg-0">
                         <div class="home-1">
                             <img class="lazyload" data-src="assets/img/home/home3.jpeg">
                         </div>
