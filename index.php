@@ -19,24 +19,25 @@
 <body>
     <div class="widget-circle shadow">
         <div class="content text-center">
-            <h2 class="text-white mb-0">PROMO</h2>
-            <h2 class="text-white mb-0">AKHIR</h2>
-            <h2 class="text-white mb-0">Tahun</h2>
+            <h5 class="text-warning mb-0">Include :</h5>
+            <h5 class="text-white mb-0">Biaya BPHTB</h5>
+            <h5 class="text-white mb-0">Biaya AJB Notaris</h5>
+            <h5 class="text-white mb-0">Subsidi KPR</h5>
         </div>
     </div>
 
     <div class="content-top">
         <div class="component-1">
-            <img src="assets/img/component/silue.png">
+            <img class="lazyload" data-src="assets/img/component/silue.png">
         </div>
         <div class="component-2">
-            <img src="assets/img/component/galaxy.png">
+            <img class="lazyload" data-src="assets/img/component/galaxy.png">
         </div>
         <div class="logo-center py-5">
-            <img src="assets/img/component/logo.png" class="logo" alt="Logo Cluster Deleuwi">
+            <img class="lazyload logo" data-src="assets/img/component/logo.png" alt="Logo Cluster Deleuwi">
         </div>
         <div class="component-3 py-5">
-            <img src="assets/img/component/miliki.png">
+            <img class="lazyload" data-src="assets/img/component/miliki.png">
         </div>
     </div>
 
@@ -46,11 +47,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="home-1">
-                            <img src="assets/img/home/home1.jpeg">
+                            <img class="lazyload" data-src="assets/img/home/home1.jpeg">
                         </div>
                     </div>
                     <div class="col-lg-6 text-center">
-                        <img src="assets/img/component/up.png" class="mb-4" width="90%">
+                        <img class="lazyload mb-4" data-src="assets/img/component/up.png" width="90%">
                         <div class="d-flex justify-content-center">
                             <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Saya Tertarik</a>
                         </div>
@@ -61,7 +62,7 @@
 
         <div class="section-2">
             <div class="home-2">
-                <img src="assets/img/home/home2.jpeg" width="100%">
+                <img class="lazyload" data-src="assets/img/home/home2.jpeg" width="100%">
             </div>
             <div class="specification">
                 <div class="spec-title mb-3">
@@ -81,17 +82,17 @@
 
         <div class="section-3 py-6">
             <div class="container">
-                <h1 class="title text-center mb-6">Promo akhir tahun</h1>
+                <h1 class="title text-center mb-6">PROMO AKHIR TAHUN</h1>
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <img src="assets/img/component/teks.png" class="mb-3" width="100%">
+                        <img class="lazyload mb-3" data-src="assets/img/component/teks.png" width="100%">
                         <div class="d-flex justify-content-center">
-                            <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Saya Tertarik</a>
+                            <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Ambil Promo</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="home-1">
-                            <img src="assets/img/home/home3.jpeg">
+                            <img class="lazyload" data-src="assets/img/home/home3.jpeg">
                         </div>
                     </div>
                 </div>
@@ -126,11 +127,14 @@
 
                         <div class="row justify-content-center my-5">
                             <div class="col-lg-6">
-                                <img src="assets/img/component/pusing.jpg" class="rounded shadow-lg" width="100%">
+                                <img class="lazyload rounded shadow-lg" data-src="assets/img/component/pusing.jpg" width="100%">
                             </div>
                         </div>
 
-                        <h1 class="title text-center mb-5">CLUSTER DE' LEUWI SOLUSINYA!!!</h1>
+                        <div class="d-flex justify-content-center">
+                            <img class="lazyload logo mb-3" data-src="assets/img/component/logo.png" width="50%" alt="Logo Cluster Deleuwi">
+                        </div>
+                        <h1 class="title-2 text-center mb-5">SOLUSINYA!!!</h1>
                         <h3 class="text-1 text-thin text-center">Kami siap membantu memiliki rumah impian Anda.
                             Bayar sewa buat kaya pemilik rumah, bayar cicilan memperkaya diri sendiri !!!</h3>
                     </div>
@@ -140,27 +144,27 @@
 
         <div class="section-6 bg-white py-6">
             <div class="container">
-                <h1 class="title text-center mb-5">5 Keuntungan Utama Memiliki Rumah di cluster de' Leuwi</h1>
+                <h1 class="title text-center mb-5">5 Keuntungan Utama Memiliki Rumah<br>di Cluster De' Leuwi</h1>
 
                 <div class="row justify-content-center text-center g-0 g-md-5 g-lg-5">
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img src="assets/icon/map.png" class="img-fluid mb-4" width="80">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/map.png" width="80">
                         <h5 class="text-thin">Lokasi strategis nan asri di kota Depok.</h5>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img src="assets/icon/save-money.png" class="img-fluid mb-4" width="80">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/save-money.png" width="80">
                         <h5 class="text-thin">Investasi yang sangat tepat, di harga launching sekarang, akan naik berkali lipat pada tahun berikutnya.</h5>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img src="assets/icon/discount.png" class="img-fluid mb-4" width="80">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/discount.png" width="80">
                         <h5 class="text-thin">Promo fantastis bunga KPR 4,5% tanpa pengajuan.</h5>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img src="assets/icon/star.png" class="img-fluid mb-4" width="80">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/star.png" width="80">
                         <h5 class="text-thin">Bahan bangunan dan asesoris yang digunakan adalah kualitas premium.</h5>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img src="assets/icon/house.png" class="img-fluid mb-4" width="80">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/house.png" width="80">
                         <h5 class="text-thin">Ready stock. Tidak perlu renovasi lagi, siap untuk langsung ditinggali.</h5>
                     </div>
                 </div>
@@ -174,19 +178,19 @@
                 </div>
                 <div class="text-center">
                     <a href="https://goo.gl/maps/vNrbLxsoZACZ5MvY9" class="btn btn-gmaps btn-lg rounded-pill shadow">
-                        <img src="assets/icon/google-maps.png" width="20">
+                        <img class="lazyload" data-src="assets/icon/google-maps.png" width="20">
                         Kunjungi Lokasi Cluster Kami
                     </a>
                 </div>
             </div>
         </div>
 
-        <div class="section-8 py-6 bg-white">
+        <div class="section-8 bg-white">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h1 class="title mb-5">Cicilan hanya 100rb-an / hari</h1>
-                        <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Saya Tertarik</a>
+                        <h2 class="text-white mb-4">CICILAN HANYA</h2>
+                        <h1 class="mb-5">100rb-an / hari</h1>
                     </div>
                 </div>
             </div>
@@ -194,47 +198,47 @@
 
         <div class="section-9 py-6">
             <div class="container">
-                <h1 class="title text-center mb-6">Foto Rumah</h1>
+                <h1 class="title text-center mb-6">Tipe 1 lantai dan 2 lantai</h1>
 
                 <div class="row g-3 mb-6" id="gallery">
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/home1-3d.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/home1-3d.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/home1-3d.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/home2-3d.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/home2-3d.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/home2-3d.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/home1-rl.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/home1-rl.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/home1-rl.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/home2-rl.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/home2-rl.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/home2-rl.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/home12lt-3d.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/home12lt-3d.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/home12lt-3d.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/home22lt-3d.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/home22lt-3d.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/home22lt-3d.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/siteplane-3d.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/siteplane-3d.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/siteplane-3d.jpeg">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <a href="assets/img/gallery/siteplane-2d.jpeg" class="fresco" data-fresco-group="gallery">
-                            <img src="assets/img/gallery/siteplane-2d.jpeg" class="img-fluid rounded shadow">
+                            <img class="lazyload img-fluid rounded shadow" data-src="assets/img/gallery/siteplane-2d.jpeg">
                         </a>
                     </div>
                 </div>
@@ -261,6 +265,9 @@
 
     <!-- Fresco -->
     <script src="/assets/vendor/fresco/dist/js/fresco.min.js"></script>
+
+    <!-- LazySizes -->
+    <script src="assets/vendor/lazysizes/lazysizes.min.js"></script>
 </body>
 
 </html>
