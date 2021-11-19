@@ -53,7 +53,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 mb-5 mb-md-0 mb-lg-0">
                         <div class="home-1">
-                            <img class="lazyload" data-src="assets/img/home/home1.jpeg">
+                            <img class="lazyload" data-src="assets/img/gallery/home12lt-3d.jpeg">
                         </div>
                     </div>
                     <div class="col-lg-6 text-center">
@@ -68,7 +68,7 @@
 
         <div class="section-2">
             <div class="home-2">
-                <img class="lazyload" data-src="assets/img/home/home2.jpeg" width="100%">
+                <img class="lazyload" data-src="assets/img/gallery/home1-rl.jpeg" width="100%">
             </div>
             <div class="specification">
                 <div class="spec-title mb-3">
@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-lg-6 mt-5 mt-md-0 mt-lg-0">
                         <div class="home-1">
-                            <img class="lazyload" data-src="assets/img/home/home3.jpeg">
+                            <img class="lazyload" data-src="assets/img/gallery/home2-3d.jpeg">
                         </div>
                     </div>
                 </div>
