@@ -75,13 +75,14 @@
                     <h5 class="mb-0">Spesifikasi :</h5>
                 </div>
                 <ul class="spec-list">
-                    <li>Pondasi Batu Bata</li>
-                    <li>Plaster Luar Dalam + Cat</li>
-                    <li>Plafon Gypsum</li>
-                    <li>Pintu Panel Kayu</li>
-                    <li>Asesoris kunci pintu merek SOLID</li>
-                    <li>Full Keramik 40x40</li>
-                    <li>Kamar mandi shower & closet duduk</li>
+                    <li>Pondasi Cakar Ayam</li>
+                    <li>Dinding Double Bata Merah</li>
+                    <li>Pintu Panel Finishing Melamix</li>
+                    <li>Lantai Granit 60X60</li>
+                    <li>Closet American Standard</li>
+                    <li>Rangka Atap Baja Ringan</li>
+                    <li>Genteng Beton</li>
+                    <li>Listrik 1300W</li>
                 </ul>
             </div>
         </div>
@@ -91,8 +92,13 @@
                 <h1 class="title text-center mb-6">PROMO AKHIR TAHUN</h1>
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <img class="lazyload mb-3" data-src="assets/img/component/teks.png" width="100%">
-                        <div class="d-flex justify-content-center">
+                        <ul class="mb-5">
+                            <li>Gratis BPHTB</li>
+                            <li>Gratis AJB Notaris</li>
+                            <li>Subsidi KPR</li>
+                        </ul>
+
+                        <div class="d-flex justify-content-center justify-content-md-start justify-content-lg-start">
                             <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Ambil Promo</a>
                         </div>
                     </div>
@@ -105,12 +111,70 @@
             </div>
         </div>
 
+        <div class="section-6 bg-white py-6">
+            <div class="container">
+                <h1 class="title text-center mb-5">5 Keuntungan Utama Memiliki Rumah<br>di Cluster De' Leuwi</h1>
+
+                <div class="row justify-content-center text-center g-0 g-md-5 g-lg-5">
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/map.png" width="80">
+                        <h5 class="text-thin">Lokasi dan akses sangat strategis nan asri di kota Cibubur.</h5>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/save-money.png" width="80">
+                        <h5 class="text-thin">Investasi yang sangat tepat, di harga launching sekarang, akan naik berkali lipat pada tahun berikutnya.</h5>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/discount.png" width="80">
+                        <h5 class="text-thin">Promo fantastis bunga KPR 4,5% tanpa pengajuan.</h5>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/star.png" width="80">
+                        <h5 class="text-thin">Bahan bangunan dan asesoris yang digunakan adalah kualitas premium.</h5>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
+                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/house.png" width="80">
+                        <h5 class="text-thin">Ready stock. Tidak perlu renovasi lagi, siap untuk langsung ditinggali.</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-10 py-6">
+            <div class="container">
+                <h1 class="title text-center mb-5">LOKASI PREMIUM</h1>
+
+                <div class="d-flex justify-content-center mb-5">
+                    <ul>
+                        <li>Diapit oleh 3 gerbang tol : Cibubur, Cimanggis dan Jatikarya</li>
+                        <li>Dikelilingi oleh perumahan besar dan mewah.
+                            <ul>
+                                <li>Citra Grand Cibubur</li>
+                                <li>Cibubur Country</li>
+                            </ul>
+                        </li>
+                        <li>Dekat dengan sekolah internasional</li>
+                        <li>Dekat dengan RS internasional</li>
+                    </ul>
+                </div>
+
+                <h1 class="title text-center mb-5">AKSES PREMIUM</h1>
+                <div class="d-flex justify-content-center">
+                    <ul>
+                        <li>10 menit ke stasiun LRT Cibubur</li>
+                        <li>7 menit ke Trans Mall Cibubur</li>
+                        <li>7 menit ke Cibubur Junction</li>
+                        <li>5 menit ke Plaza Cibubur</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
         <div class="section-4 py-6 bg-white">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h1 class="title mb-5">Cicilan hanya 4 juta-an / bulan<br>#clusterberkelas</h1>
-                        <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Hubungi Kami Segera</a>
+                        <h1 class="title">Cicilan hanya 4 juta-an / bulan<br>#clusterberkelas</h1>
                     </div>
                 </div>
             </div>
@@ -138,40 +202,14 @@
                         </div>
 
                         <div class="d-flex justify-content-center">
-                            <img class="lazyload logo mb-3" data-src="assets/img/component/logo.png" width="50%" alt="Logo Cluster Deleuwi">
+                            <img class="lazyload logo mb-3" data-src="assets/img/component/logo2.png" width="50%" alt="Logo Cluster Deleuwi">
                         </div>
                         <h1 class="title-2 text-center mb-5">SOLUSINYA!!!</h1>
                         <h3 class="text-1 text-thin text-center">Kami siap membantu memiliki rumah impian Anda.
-                            Bayar sewa buat kaya pemilik rumah, bayar cicilan memperkaya diri sendiri !!!</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="section-6 bg-white py-6">
-            <div class="container">
-                <h1 class="title text-center mb-5">5 Keuntungan Utama Memiliki Rumah<br>di Cluster De' Leuwi</h1>
-
-                <div class="row justify-content-center text-center g-0 g-md-5 g-lg-5">
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/map.png" width="80">
-                        <h5 class="text-thin">Lokasi strategis nan asri di kota Depok.</h5>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/save-money.png" width="80">
-                        <h5 class="text-thin">Investasi yang sangat tepat, di harga launching sekarang, akan naik berkali lipat pada tahun berikutnya.</h5>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/discount.png" width="80">
-                        <h5 class="text-thin">Promo fantastis bunga KPR 4,5% tanpa pengajuan.</h5>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/star.png" width="80">
-                        <h5 class="text-thin">Bahan bangunan dan asesoris yang digunakan adalah kualitas premium.</h5>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0 mb-lg-0">
-                        <img class="lazyload img-fluid mb-4" data-src="assets/icon/house.png" width="80">
-                        <h5 class="text-thin">Ready stock. Tidak perlu renovasi lagi, siap untuk langsung ditinggali.</h5>
+                            <br class="d-none d-md-block d-lg-block">
+                            Bayar sewa buat kaya pemilik rumah, bayar cicilan memperkaya diri sendiri !!!
+                        </h3>
+                        <h1 class="title-3 text-center mb-5">Saatnya miliki rumah pertamamu</h1>
                     </div>
                 </div>
             </div>
@@ -195,7 +233,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-white mb-4">CICILAN HANYA</h2>
+                        <h2 class="text-white mb-4">Cicilan KPR Hanya</h2>
                         <h1 class="mb-5">100rb-an / hari</h1>
                     </div>
                 </div>
