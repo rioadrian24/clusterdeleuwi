@@ -27,10 +27,10 @@
     </div>
 
     <div class="content-top">
-        <div class="component-1 d-none d-md-block d-lg-block">
+        <div class="component-1 d-none d-md-none d-lg-block">
             <img class="lazyload" data-src="assets/img/component/silue.png">
         </div>
-        <div class="component-1 d-block d-md-none d-lg-none">
+        <div class="component-1 d-block d-md-block d-lg-none">
             <img class="lazyload" data-src="assets/img/component/silue2.png">
         </div>
         <div class="component-2">
@@ -50,16 +50,16 @@
     <div class="content-body">
         <div class="section-1 py-6">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 mb-5 mb-md-0 mb-lg-0">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-md-8 col-lg-6 mb-5 mb-md-5 mb-lg-0">
                         <div class="home-1">
                             <img class="lazyload" data-src="assets/img/gallery/home12lt-3d.jpeg">
                         </div>
                     </div>
                     <div class="col-lg-6 text-center">
-                        <img class="lazyload mb-5" data-src="assets/img/component/up.png" width="90%">
+                        <h1 class="title mb-5">Rumah Siap Huni !!!</h1>
                         <div class="d-flex justify-content-center">
-                            <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Saya Tertarik</a>
+                            <a href="https://wa.me/6281911882026" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Janjian Visit</a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
         <div class="section-3 py-6">
             <div class="container">
                 <h1 class="title text-center mb-6">PROMO AKHIR TAHUN</h1>
-                <div class="row align-items-center">
+                <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6">
                         <ul class="mb-5">
                             <li>Gratis BPHTB</li>
@@ -98,11 +98,11 @@
                             <li>Subsidi KPR</li>
                         </ul>
 
-                        <div class="d-flex justify-content-center justify-content-md-start justify-content-lg-start">
-                            <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Ambil Promo</a>
+                        <div class="d-flex justify-content-center justify-content-md-center justify-content-lg-start">
+                            <a href="https://wa.me/6281911882026" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Ambil Promo</a>
                         </div>
                     </div>
-                    <div class="col-lg-6 mt-5 mt-md-0 mt-lg-0">
+                    <div class="col-md-9 col-lg-6 mt-5 mt-md-5 mt-lg-0">
                         <div class="home-1">
                             <img class="lazyload" data-src="assets/img/gallery/home2-3d.jpeg">
                         </div>
@@ -142,7 +142,7 @@
 
         <div class="section-10 py-6">
             <div class="container">
-                <h1 class="title text-center mb-5">LOKASI PREMIUM</h1>
+                <h1 class="title text-center mb-3 mb-md-5 mb-lg-5">LOKASI PREMIUM</h1>
 
                 <div class="d-flex justify-content-center mb-5">
                     <ul>
@@ -158,7 +158,7 @@
                     </ul>
                 </div>
 
-                <h1 class="title text-center mb-5">AKSES PREMIUM</h1>
+                <h1 class="title text-center mb-3 mb-md-5 mb-lg-5">AKSES PREMIUM</h1>
                 <div class="d-flex justify-content-center">
                     <ul>
                         <li>10 menit ke stasiun LRT Cibubur</li>
@@ -288,7 +288,7 @@
                 </div>
 
                 <div class="text-center">
-                    <a href="https://wa.me/6281298830776" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Hubungi Kami Segera</a>
+                    <a href="https://wa.me/6281911882026" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Hubungi Kami Segera</a>
                 </div>
             </div>
         </div>
