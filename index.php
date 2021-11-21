@@ -104,7 +104,7 @@
                     </div>
                     <div class="col-md-9 col-lg-6 mt-5 mt-md-5 mt-lg-0">
                         <div class="home-1">
-                            <img class="lazyload" data-src="assets/img/gallery/home2-3d.jpeg">
+                            <img class="lazyload" data-src="assets/img/component/wow.jpg">
                         </div>
                     </div>
                 </div>
@@ -145,10 +145,10 @@
                 <h1 class="title text-center mb-3 mb-md-5 mb-lg-5">LOKASI PREMIUM</h1>
 
                 <div class="d-flex justify-content-center mb-5">
-                    <ul>
+                    <ul class="list-1">
                         <li>Diapit oleh 3 gerbang tol : Cibubur, Cimanggis dan Jatikarya</li>
                         <li>Dikelilingi oleh perumahan besar dan mewah.
-                            <ul>
+                            <ul class="list-1-sub">
                                 <li>Citra Grand Cibubur</li>
                                 <li>Cibubur Country</li>
                             </ul>
@@ -159,23 +159,17 @@
                 </div>
 
                 <h1 class="title text-center mb-3 mb-md-5 mb-lg-5">AKSES PREMIUM</h1>
-                <div class="d-flex justify-content-center">
-                    <ul>
+                <div class="d-flex justify-content-center mb-5">
+                    <ul class="list-2">
                         <li>10 menit ke stasiun LRT Cibubur</li>
                         <li>7 menit ke Trans Mall Cibubur</li>
                         <li>7 menit ke Cibubur Junction</li>
                         <li>5 menit ke Plaza Cibubur</li>
                     </ul>
                 </div>
-            </div>
-        </div>
 
-        <div class="section-4 py-6 bg-white">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-12 text-center">
-                        <h1 class="title">Cicilan hanya 4 juta-an / bulan<br>#clusterberkelas</h1>
-                    </div>
+                <div class="d-flex justify-content-center">
+                    <a href="https://wa.me/6281911882026" target="_blank" class="btn btn-whatsapp btn-lg rounded-pill shadow"><i class="bi bi-whatsapp"></i> Hubungi Kami</a>
                 </div>
             </div>
         </div>
