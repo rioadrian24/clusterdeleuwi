@@ -228,6 +228,7 @@ body {
   background-image: url("/assets/img/component/bg_promo.png");
   background-size: cover;
   z-index: 1;
+  overflow: hidden;
 }
 
 .content-body .section-3::before {
@@ -237,33 +238,28 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
   z-index: -1;
 }
 
 .content-body .section-3 .title {
   font-size: 4rem;
+  color: var(--atomic-tangerine);
 }
 
 .content-body .section-3 ul li {
   font-size: 3rem;
   font-weight: 800;
-  color: var(--rose);
+  color: var(--atomic-tangerine);
   -webkit-text-stroke: 2px #ffffff;
   list-style-type: "- ";
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
 }
 
-.content-body .section-3 .home-1 {
-  background-color: white;
-  padding: 10px;
-  border-radius: 10px;
-  box-shadow: -10px -10px 0 rgba(0, 0, 0, 0.3);
-}
-
-.content-body .section-3 .home-1 img {
-  width: 100%;
-  border-radius: 10px;
+.content-body .section-3 img {
+  position: absolute;
+  bottom: 0;
+  right: 20%;
 }
 
 .content-body .section-5 {
@@ -487,6 +483,13 @@ body {
     font-size: 3rem;
   }
 
+  .content-body .section-3 img {
+    width: 230px;
+    bottom: -40px;
+    left: 0;
+    z-index: -1;
+  }
+
   .content-body .section-5 .logo {
     width: 100%;
   }
@@ -563,6 +566,10 @@ body {
 
   .content-body .section-3 .title {
     font-size: 5rem;
+  }
+
+  .content-body .section-3 img {
+    right: 0;
   }
 
   .content-body .section-10 {

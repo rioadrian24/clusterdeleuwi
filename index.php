@@ -103,9 +103,7 @@
                         </div>
                     </div>
                     <div class="col-md-9 col-lg-6 mt-5 mt-md-5 mt-lg-0">
-                        <div class="home-1">
-                            <img class="lazyload" data-src="assets/img/component/wow.jpg">
-                        </div>
+                        <img class="lazyload" data-src="assets/img/component/wow.png" width="300">
                     </div>
                 </div>
             </div>
